@@ -1,0 +1,71 @@
+
+
+/*Home*/
+#home{
+  background: black;
+  
+  min-height: 500px;
+}
+
+/*Section 1*/
+#sectionone{
+  background: #a29e92;
+  background: linear-gradient(90deg, #a29e92 50%, gold 100%);
+  min-height: 600px;
+}
+
+/*Section 2*/
+#sectiontwo{
+  background: #a29e92;
+  background: linear-gradient(90deg, #a29e92 50%, gold 100%);
+}
+
+/*Map*/
+.map-container {
+  width: 100%;
+  height: 200%;
+  background-color: #a29e92;
+  color: goldenrod;
+}
+
+/* .map-container .info-window {
+  background-color: #a29e92;
+  border-radius: 10%;
+} */
+
+/*Cards*/
+.card{
+  transition: all 0.5s ease;
+  color: goldenrod;
+}
+
+.card-body{
+  background-color: black;
+}
+
+.card:hover{
+  cursor: pointer;
+  box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15);
+}
+
+/*Footer*/
+.footer{
+  background: rgb(0,101,219);
+  background: linear-gradient(90deg, rgb(0,101,219) 40%, rgba(0, 212, 255, 1) 100%);
+  min-height: 500px;  
+}
+
+/*Login*/
+#login{
+  background: black;
+}
+
+/*register*/
+#register{
+  background: black;
+}
+
+/*userreview*/
+#userreview{
+  background: black;
+}
