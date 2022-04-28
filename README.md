@@ -9,7 +9,7 @@
 
 ## Description
 
-**Pump Plunder** is an application designed to be accessible and convenient to the everday user that allows the user to find reasonable gas prices in their local proximity. In a collaborative effort, we learned how to work together on the repository, that communicating often is key, and that there is usually more than one way to do something. This project was fun and I enjoyed working with **Team Pump Plunder**.  
+**Pump Plunder** is an application designed to be accessible and convenient to the everyday user that allows the user to find reasonable gas prices in their local proximity. In a collaborative effort, we learned how to work together on the repository, that communicating often is key, and that there is usually more than one way to do something. This project was fun and I enjoyed working with **Team Pump Plunder**.  
 
 ***Motivation for Development***: We were thinking of ways to resolve the problem of aimlessly driving to locate and save money on gas as prices, especially in Calfornia, have skyrocketed to burdensome prices on the everyday driver. We developed the **Pump Plunder** app to not only be a cost-effective solution, but to also be a time-saving solution that allows users to locate nearby gas stations, and their prices, in a single space.
 
